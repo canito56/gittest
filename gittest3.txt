@@ -1,1 +1,2 @@
 creo este archivo (create, master remote)
+linea nueva 1 (add, fixerror)
