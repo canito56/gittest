@@ -1,2 +1,3 @@
-creao este nuevo archivo
+creo este nuevo archivo (change, fixerror)
 para probar el pull
+linea (add, master)
