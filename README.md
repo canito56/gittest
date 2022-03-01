@@ -1,2 +1,2 @@
 # gittest
-Pruebas varias 
+Pruebas varias para comandos de git usando gitbash.
